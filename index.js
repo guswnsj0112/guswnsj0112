@@ -13,7 +13,7 @@ Currently studying **Java**, **React**, and software design fundamentals.
 
 ## 💻 이런 환경에 익숙해요 ✍🏼
 - **개발 툴:** VS Code, 
-	<img src="https://img.shields.io/badge/git-%#F05032.svg?style=flat-square&logo=git&logoColor=white"/>, 
+	<img src="https://img.shields.io/badge/github-%181717.svg?style=flat-square&logo=github&logoColor=white"/>, 
 	<img src="https://img.shields.io/badge/notion-%000000.svg?style=flat-square&logo=notion&logoColor=white"/>
 - **언어:** 
   <img src="https://img.shields.io/badge/html5-%23E34F26.svg?style=flat-square&logo=html5&logoColor=white"/> 
