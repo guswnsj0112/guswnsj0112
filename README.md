@@ -6,7 +6,14 @@ Currently studying **Java**, **React**, and software design fundamentals.
 
 ## 💻 이런 환경에 익숙해요 ✍🏼
 - **개발 툴:** VS Code, GitHub, Notion  
-- **언어:** Java, JavaScript  
+- **언어:** <p>
+  <img src="https://img.shields.io/badge/html5-%23E34F26.svg?style=flat-square&logo=html5&logoColor=white"/> 
+  <img src="https://img.shields.io/badge/css3-%231572B6.svg?style=flat-square&logo=css3&logoColor=white"/> 
+  <img src="https://img.shields.io/badge/javascript-%23323330.svg?style=flat-square&logo=javascript&logoColor=%23F7DF1E"/>
+  <img src= "https://img.shields.io/badge/TypeScript-black?logo=typescript&logoColor=blue"/>
+  <img src="https://img.shields.io/badge/python-3670A0?style=flat-square&logo=python&logoColor=ffdd54"/> 
+  <img src="https://img.shields.io/badge/java-%23ED8B00.svg?style=flat-square&logo=openjdk&logoColor=white"/>
+</p>
 - **프레임워크 / 라이브러리:** React, TailwindCSS  
 - **협업 및 관리:** Git Flow 기반 브랜치 전략, Notion을 통한 일정/아이디어 관리  
 - **작업 스타일:**  
@@ -16,14 +23,7 @@ Currently studying **Java**, **React**, and software design fundamentals.
 
 ---
 
-<p>
-  <img src="https://img.shields.io/badge/html5-%23E34F26.svg?style=flat-square&logo=html5&logoColor=white"/> 
-  <img src="https://img.shields.io/badge/css3-%231572B6.svg?style=flat-square&logo=css3&logoColor=white"/> 
-  <img src="https://img.shields.io/badge/javascript-%23323330.svg?style=flat-square&logo=javascript&logoColor=%23F7DF1E"/>
-  <img src= "https://img.shields.io/badge/TypeScript-black?logo=typescript&logoColor=blue"/>
-  <img src="https://img.shields.io/badge/python-3670A0?style=flat-square&logo=python&logoColor=ffdd54"/> 
-  <img src="https://img.shields.io/badge/java-%23ED8B00.svg?style=flat-square&logo=openjdk&logoColor=white"/>
-</p>
+
 
 ## 📕 Latest Blog Posts
 
