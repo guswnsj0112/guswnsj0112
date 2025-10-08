@@ -1,14 +1,25 @@
-# Hi there 👋
+# Hi there 👋  
+I'm **Jang HyunJun (장현준)**, a student developer learning how ideas turn into real products.  
+Currently studying **Java**, **React**, and software design fundamentals.
 
-## 이런 환경에 익숙해요✍🏼
+---
 
-## 언어
+## 💻 이런 환경에 익숙해요 ✍🏼
+- **개발 툴:** VS Code, GitHub, Notion  
+- **언어:** Java, JavaScript  
+- **프레임워크 / 라이브러리:** React, TailwindCSS  
+- **협업 및 관리:** Git Flow 기반 브랜치 전략, Notion을 통한 일정/아이디어 관리  
+- **작업 스타일:**  
+  - 에러를 해결하며 원리를 이해하는 과정을 즐깁니다.  
+  - 기능 단위로 커밋하며 코드 구조를 점진적으로 개선합니다.  
+  - 작은 프로젝트라도 실제 서비스처럼 설계하고 운영하려 합니다.  
+
+---
 
 <p>
   <img src="https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white"/> 
-  <img src="https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white"/> 
-  <img alt="" src= "https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=JavaScript&logoColor=white"/> 
-  <img alt="" src= "https://img.shields.io/badge/TypeScript-black?logo=typescript&logoColor=blue"/>
+  <img src= "https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=JavaScript&logoColor=white"/> 
+  <img src= "https://img.shields.io/badge/TypeScript-black?logo=typescript&logoColor=blue"/>
   <img src="https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54"/> 
   <img src="https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white"/>
 </p>
