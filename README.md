@@ -17,17 +17,16 @@ Currently studying **Java**, **React**, and software design fundamentals.
   <img src="https://img.shields.io/badge/java-%23ED8B00.svg?style=flat-square&logo=openjdk&logoColor=white"/>
 - **프레임워크 / 라이브러리:** 
 	<img src="https://img.shields.io/badge/react-blue.svg?style=flat-square&logo=react&logoColor=white"/>, 
-	<img src="https://img.shields.io/badge/tailwindcss-blue.svg?style=flat-square&logo=tailwindcss&logoColor=white"/>
-- **자격증 및 어학:** SQLD
+	<img src="https://img.shields.io/badge/tailwindcss-blue.svg?style=flat-square&logo=tailwindcss&logoColor=white"/>  
 - **협업 및 관리:** Git Flow 기반 브랜치 전략, Notion을 통한 일정/아이디어 관리  
 - **작업 스타일:**  
   - 에러를 해결하며 원리를 이해하는 과정을 즐깁니다.  
   - 기능 단위로 커밋하며 코드 구조를 점진적으로 개선합니다.  
-  - 작은 프로젝트라도 실제 서비스처럼 설계하고 운영하려 합니다.
+  - 작은 프로젝트라도 실제 서비스처럼 설계하고 운영하려 합니다.  
 
 ---
 
 
 ## 📕 Latest Blog Posts
 
-<ul><li><a href='https://joon0112.tistory.com/62' target='_blank'>[TIL]자바 프로그래밍의 참조 자료형</a></li><li><a href='https://joon0112.tistory.com/61' target='_blank'>[전역 후] 그동안 내가 군 생활에서 이뤘던 것과 못 이뤘던 것들</a></li><li><a href='https://joon0112.tistory.com/60' target='_blank'> 잠시 쉬어갑니다....</a></li><li><a href='https://joon0112.tistory.com/59' target='_blank'>[WIL] 자바 반복문 그리고 아쉬운 부분</a></li><li><a href='https://joon0112.tistory.com/58' target='_blank'>[TIL] While, Do While, Break, Continue 차이 정리</a></li><li><a href='https://joon0112.tistory.com/57' target='_blank'>[WIL] 자바 조건문 그리고 아쉬운 부분</a></li><li><a href='https://joon0112.tistory.com/56' target='_blank'>[TIL] Java 조건문 (if, switch, 삼항연산자, Scanner )</a></li><li><a href='https://joon0112.tistory.com/55' target='_blank'>[WIL] 자바의 객체지향부터 BigDecimal까지 &mdash; 실수와 학습의 한 주</a></li><li><a href='https://joon0112.tistory.com/54' target='_blank'>[TIL] Java 불리안, 문자형, 그리고 정적 메서드 정리</a></li><li><a href='https://joon0112.tistory.com/53' target='_blank'>[TIL] Java 부동소수점(float, double)과 BigDecimal 정확도 차이  이해하기</a></li></ul>
+<ul><li><a href='https://joon0112.tistory.com/63' target='_blank'>[TIL] String 클래스</a></li><li><a href='https://joon0112.tistory.com/62' target='_blank'>[TIL]자바 프로그래밍의 참조 자료형</a></li><li><a href='https://joon0112.tistory.com/61' target='_blank'>[전역 후] 그동안 내가 군 생활에서 이뤘던 것과 못 이뤘던 것들</a></li><li><a href='https://joon0112.tistory.com/60' target='_blank'> 잠시 쉬어갑니다....</a></li><li><a href='https://joon0112.tistory.com/59' target='_blank'>[WIL] 자바 반복문 그리고 아쉬운 부분</a></li><li><a href='https://joon0112.tistory.com/58' target='_blank'>[TIL] While, Do While, Break, Continue 차이 정리</a></li><li><a href='https://joon0112.tistory.com/57' target='_blank'>[WIL] 자바 조건문 그리고 아쉬운 부분</a></li><li><a href='https://joon0112.tistory.com/56' target='_blank'>[TIL] Java 조건문 (if, switch, 삼항연산자, Scanner )</a></li><li><a href='https://joon0112.tistory.com/55' target='_blank'>[WIL] 자바의 객체지향부터 BigDecimal까지 &mdash; 실수와 학습의 한 주</a></li><li><a href='https://joon0112.tistory.com/54' target='_blank'>[TIL] Java 불리안, 문자형, 그리고 정적 메서드 정리</a></li></ul>
