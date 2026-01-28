@@ -23,7 +23,7 @@ Currently studying **Java**, **React**, and software design fundamentals.
   <img src="https://img.shields.io/badge/python-3670A0?style=flat-square&logo=python&logoColor=ffdd54"/> 
   <img src="https://img.shields.io/badge/java-%23ED8B00.svg?style=flat-square&logo=openjdk&logoColor=white"/>
 - **프레임워크 / 라이브러리:** 
-	<img src="https://img.shields.io/badge/react-blue.svg?style=flat-square&logo=react&logoColor=white"/>, 
+	<img src="https://img.shields.io/badge/react-blue.svg?style=flat-square&logo=react&logoColor=white"/> 
 	<img src="https://img.shields.io/badge/tailwindcss-blue.svg?style=flat-square&logo=tailwindcss&logoColor=white"/>  
 - **자격증:** SQLD
 - **협업 및 관리:** Git Flow 기반 브랜치 전략, Notion을 통한 일정/아이디어 관리  
