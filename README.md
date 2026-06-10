@@ -5,7 +5,9 @@ Currently studying **Java**, **React**, and software design fundamentals.
 ---
 
 ## 💻 이런 환경에 익숙해요 ✍🏼
-- **개발 툴:** VS Code, IntelliJ
+- **개발 툴:**
+  	<img src="https://img.shields.io/badge/VS%20Code-007ACC.svg?style=flat-square&logo=visualstudiocode&logoColor=white"/>
+	<img src="https://img.shields.io/badge/IntelliJ%20IDEA-000000.svg?style=flat-square&logo=intellijidea&logoColor=white"/>
 	<img src="https://img.shields.io/badge/github-black.svg?style=flat-square&logo=github&logoColor=white"/> 
 	<img src="https://img.shields.io/badge/notion-black.svg?style=flat-square&logo=notion&logoColor=white"/>
 - **언어:** 
