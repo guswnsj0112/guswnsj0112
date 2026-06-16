@@ -5,7 +5,7 @@ Currently studying **Java**, **Spring**, and software design fundamentals.
 ---
 ## 🚀 Activities & Experience
 
-- **SOPT Server YB**  
+- **SOPT 38기 Server YB**  
   <code>2026.03 ~</code>
 
 - **명지대학교 멋쟁이사자처럼 백엔드 운영진 총무**  
