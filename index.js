@@ -78,11 +78,11 @@ let text = `# Hi there 👋
 ## 📊 GitHub Stats
 
 <a href="https://github.com/guswnsj0112">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=guswnsj0112&show_icons=true&theme=transparent&hide_border=true&include_all_commits=true&locale=en" alt="Jang Hyeonjun's GitHub stats" />
-</a>
-<a href="https://github.com/guswnsj0112">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=guswnsj0112&layout=compact&theme=transparent&hide_border=true&locale=en" alt="Top Languages" />
-</a>
+    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=guswnsj0112&show_icons=true&theme=transparent&hide_border=true&locale=en&cache_seconds=21600" alt="Jang Hyeonjun's GitHub stats" />
+  </a>
+  <a href="https://github.com/guswnsj0112">
+    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=guswnsj0112&layout=compact&theme=transparent&hide_border=true&locale=en&cache_seconds=21600" alt="Top Languages" />
+  </a>
 
 ---
 
