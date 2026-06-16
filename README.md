@@ -9,7 +9,7 @@
 </p>
 
 - I'm **Jang Hyeonjun (장현준)**, a student developer learning how ideas turn into real products.  
-- Currently studying **Java**, **Spring**, and software design fundamentals.
+    - Currently studying **Java**, **Spring**, and software design fundamentals.
 
 ---
 
@@ -32,17 +32,17 @@
 	<img src="https://img.shields.io/badge/IntelliJ%20IDEA-000000.svg?style=flat-square&logo=intellijidea&logoColor=white"/>
 	<img src="https://img.shields.io/badge/github-black.svg?style=flat-square&logo=github&logoColor=white"/> 
 	<img src="https://img.shields.io/badge/notion-black.svg?style=flat-square&logo=notion&logoColor=white"/>
-    - **Languages:**
+- **Languages:**
 <img src="https://img.shields.io/badge/python-3670A0?style=flat-square&logo=python&logoColor=ffdd54"/>
 <img src="https://img.shields.io/badge/java-%23ED8B00.svg?style=flat-square&logo=openjdk&logoColor=white"/>
 - **Frameworks / Libraries:**
 	<img src="https://img.shields.io/badge/spring-%236DB33F.svg?style=flat-square&logo=spring&logoColor=white"/>
-    - **🪪 Certification:** SQLD
+- **🪪 Certification:** SQLD
 - **Collaboration & Management:** Git Flow 기반 브랜치 전략, Notion을 통한 일정/아이디어 관리
 - **Working Style:**
-- 에러를 해결하며 원리를 이해하는 과정을 즐깁니다.
-- 기능 단위로 커밋하며 코드 구조를 점진적으로 개선합니다.
-- 작은 프로젝트라도 실제 서비스처럼 설계하고 운영하려 합니다.
+    - 에러를 해결하며 원리를 이해하는 과정을 즐깁니다.
+    - 기능 단위로 커밋하며 코드 구조를 점진적으로 개선합니다.
+    - 작은 프로젝트라도 실제 서비스처럼 설계하고 운영하려 합니다.
 
 ---
 
