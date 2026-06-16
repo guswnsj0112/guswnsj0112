@@ -7,7 +7,7 @@ import Parser from "rss-parser";
  */
 let text = `# Hi there 👋  
 I'm **Jang HyunJun (장현준)**, a student developer learning how ideas turn into real products.  
-Currently studying **Java**, **React**, and software design fundamentals.
+Currently studying **Java**, **Spring**, and software design fundamentals.
 
 ---
 ## 🚀 Activities & Experience
@@ -23,20 +23,20 @@ Currently studying **Java**, **React**, and software design fundamentals.
 
 ---
 
-## 💻 이런 환경에 익숙해요 ✍🏼
-- **개발 툴:**
+## 💻 Tech Stack & Workflow ✍🏼
+- **Development Tools:**
   \t<img src="https://img.shields.io/badge/VS%20Code-007ACC.svg?style=flat-square&logo=visualstudiocode&logoColor=white"/>
 \t<img src="https://img.shields.io/badge/IntelliJ%20IDEA-000000.svg?style=flat-square&logo=intellijidea&logoColor=white"/>
 \t<img src="https://img.shields.io/badge/github-black.svg?style=flat-square&logo=github&logoColor=white"/> 
 \t<img src="https://img.shields.io/badge/notion-black.svg?style=flat-square&logo=notion&logoColor=white"/>
-- **언어:** 
+- **Languages:** 
   <img src="https://img.shields.io/badge/python-3670A0?style=flat-square&logo=python&logoColor=ffdd54"/> 
   <img src="https://img.shields.io/badge/java-%23ED8B00.svg?style=flat-square&logo=openjdk&logoColor=white"/>
-- **프레임워크 / 라이브러리:** 
+- **Frameworks / Libraries:** 
 \t<img src="https://img.shields.io/badge/spring-%236DB33F.svg?style=flat-square&logo=spring&logoColor=white"/>
-- **자격증:** SQLD
-- **협업 및 관리:** Git Flow 기반 브랜치 전략, Notion을 통한 일정/아이디어 관리  
-- **작업 스타일:**  
+- **🪪 Certification:** SQLD
+- **Collaboration & Management:** Git Flow 기반 브랜치 전략, Notion을 통한 일정/아이디어 관리  
+- **Working Style:**  
   - 에러를 해결하며 원리를 이해하는 과정을 즐깁니다.  
   - 기능 단위로 커밋하며 코드 구조를 점진적으로 개선합니다.  
   - 작은 프로젝트라도 실제 서비스처럼 설계하고 운영하려 합니다.  
