@@ -56,7 +56,7 @@
 
 ### 🤝 Collaboration & Management
 
-- Git Flow 기반 브랜치 전략
+- GitHub Flow 기반 브랜치 전략
 - Notion을 통한 일정 및 아이디어 관리
 
 ### 🧭 Working Style
