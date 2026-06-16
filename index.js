@@ -10,21 +10,30 @@ I'm **Jang HyunJun (장현준)**, a student developer learning how ideas turn in
 Currently studying **Java**, **React**, and software design fundamentals.
 
 ---
+## 🚀 Activities & Experience
+
+- **SOPT Server YB**  
+  <code>2026.03 ~</code>
+
+- **명지대학교 멋쟁이사자처럼 백엔드 운영진 총무**  
+  <code>2026.02 ~</code>
+
+- **명지대학교 교내 IT 프로젝트 동아리 DEPTH**  
+  <code>2023.03 ~ 2024.01 · FE</code>
+
+---
 
 ## 💻 이런 환경에 익숙해요 ✍🏼
-- **개발 툴:** VS Code, IntelliJ
-	<img src="https://img.shields.io/badge/github-black.svg?style=flat-square&logo=github&logoColor=white"/> 
-	<img src="https://img.shields.io/badge/notion-black.svg?style=flat-square&logo=notion&logoColor=white"/>
+- **개발 툴:**
+  \t<img src="https://img.shields.io/badge/VS%20Code-007ACC.svg?style=flat-square&logo=visualstudiocode&logoColor=white"/>
+\t<img src="https://img.shields.io/badge/IntelliJ%20IDEA-000000.svg?style=flat-square&logo=intellijidea&logoColor=white"/>
+\t<img src="https://img.shields.io/badge/github-black.svg?style=flat-square&logo=github&logoColor=white"/> 
+\t<img src="https://img.shields.io/badge/notion-black.svg?style=flat-square&logo=notion&logoColor=white"/>
 - **언어:** 
-  <img src="https://img.shields.io/badge/html5-%23E34F26.svg?style=flat-square&logo=html5&logoColor=white"/> 
-  <img src="https://img.shields.io/badge/css3-%231572B6.svg?style=flat-square&logo=css3&logoColor=white"/> 
-  <img src="https://img.shields.io/badge/javascript-%23323330.svg?style=flat-square&logo=javascript&logoColor=%23F7DF1E"/>
-  <img src= "https://img.shields.io/badge/TypeScript-black?logo=typescript&logoColor=blue"/>
   <img src="https://img.shields.io/badge/python-3670A0?style=flat-square&logo=python&logoColor=ffdd54"/> 
   <img src="https://img.shields.io/badge/java-%23ED8B00.svg?style=flat-square&logo=openjdk&logoColor=white"/>
 - **프레임워크 / 라이브러리:** 
-	<img src="https://img.shields.io/badge/react-blue.svg?style=flat-square&logo=react&logoColor=white"/> 
-	<img src="https://img.shields.io/badge/tailwindcss-blue.svg?style=flat-square&logo=tailwindcss&logoColor=white"/>  
+\t<img src="https://img.shields.io/badge/spring-%236DB33F.svg?style=flat-square&logo=spring&logoColor=white"/>
 - **자격증:** SQLD
 - **협업 및 관리:** Git Flow 기반 브랜치 전략, Notion을 통한 일정/아이디어 관리  
 - **작업 스타일:**  
