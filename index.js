@@ -34,35 +34,55 @@ let text = `# Hi there 👋
 ---
 
 ## 💻 Tech Stack & Workflow ✍🏼
-- **Development Tools:**
-\t<img src="https://img.shields.io/badge/VS%20Code-007ACC.svg?style=flat-square&logo=visualstudiocode&logoColor=white"/>
-\t<img src="https://img.shields.io/badge/IntelliJ%20IDEA-000000.svg?style=flat-square&logo=intellijidea&logoColor=white"/>
-\t<img src="https://img.shields.io/badge/github-black.svg?style=flat-square&logo=github&logoColor=white"/> 
-\t<img src="https://img.shields.io/badge/notion-black.svg?style=flat-square&logo=notion&logoColor=white"/>
-- **Languages:**
-<img src="https://img.shields.io/badge/python-3670A0?style=flat-square&logo=python&logoColor=ffdd54"/>
-<img src="https://img.shields.io/badge/java-%23ED8B00.svg?style=flat-square&logo=openjdk&logoColor=white"/>
-- **Frameworks / Libraries:**
-\t<img src="https://img.shields.io/badge/spring-%236DB33F.svg?style=flat-square&logo=spring&logoColor=white"/>
-- **🪪 Certification:** SQLD
-- **Collaboration & Management:** Git Flow 기반 브랜치 전략, Notion을 통한 일정/아이디어 관리
-- **Working Style:**
-    - 에러를 해결하며 원리를 이해하는 과정을 즐깁니다.
-    - 기능 단위로 커밋하며 코드 구조를 점진적으로 개선합니다.
-    - 작은 프로젝트라도 실제 서비스처럼 설계하고 운영하려 합니다.
+
+### 🛠 Development Tools
+
+<p>
+  <img src="https://img.shields.io/badge/VS%20Code-007ACC.svg?style=flat-square&logo=visualstudiocode&logoColor=white"/>
+  <img src="https://img.shields.io/badge/IntelliJ%20IDEA-000000.svg?style=flat-square&logo=intellijidea&logoColor=white"/>
+  <img src="https://img.shields.io/badge/github-black.svg?style=flat-square&logo=github&logoColor=white"/> 
+  <img src="https://img.shields.io/badge/notion-black.svg?style=flat-square&logo=notion&logoColor=white"/>
+</p>
+
+### 🧑‍💻 Languages
+
+<p>
+  <img src="https://img.shields.io/badge/python-3670A0?style=flat-square&logo=python&logoColor=ffdd54"/>
+  <img src="https://img.shields.io/badge/java-%23ED8B00.svg?style=flat-square&logo=openjdk&logoColor=white"/>
+</p>
+
+### 🌱 Frameworks / Libraries
+
+<p>
+  <img src="https://img.shields.io/badge/spring-%236DB33F.svg?style=flat-square&logo=spring&logoColor=white"/>
+</p>
+
+### 🪪 Certification
+
+- SQLD (한국데이터산업진흥원 / 2024.11.17)
+
+### 🤝 Collaboration & Management
+
+- Git Flow 기반 브랜치 전략
+- Notion을 통한 일정 및 아이디어 관리
+
+### 🧭 Working Style
+
+- 에러를 해결하며 원리를 이해하는 과정을 즐깁니다.
+- 기능 단위로 커밋하며 코드 구조를 점진적으로 개선합니다.
+- 작은 프로젝트라도 실제 서비스처럼 설계하고 운영하려 합니다.
 
 ---
 
+
 ## 📊 GitHub Stats
 
-<p align="center">
-    <a href="https://github.com/guswnsj0112">
-    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=guswnsj0112&show_icons=true&theme=transparent&hide_border=true&include_all_commits=true&locale=en" alt="Jang Hyeonjun's GitHub stats" />
-    </a>
 <a href="https://github.com/guswnsj0112">
-    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=guswnsj0112&layout=compact&theme=transparent&hide_border=true&locale=en" alt="Top Languages" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=guswnsj0112&show_icons=true&theme=transparent&hide_border=true&include_all_commits=true&locale=en" alt="Jang Hyeonjun's GitHub stats" />
 </a>
-</p>
+<a href="https://github.com/guswnsj0112">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=guswnsj0112&layout=compact&theme=transparent&hide_border=true&locale=en" alt="Top Languages" />
+</a>
 
 ---
 
