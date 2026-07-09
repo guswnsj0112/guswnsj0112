@@ -78,10 +78,10 @@ let text = `# Hi there 👋
 ## 📊 GitHub Stats
 
 <a href="https://github.com/guswnsj0112">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=guswnsj0112&show_icons=true&theme=transparent&hide_border=true&locale=en&cache_seconds=21600&custom_title=Hyeonjun%27s%20GitHub%20Stats" alt="Hyeonjun's GitHub stats" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=guswnsj0112&amp;show_icons=true&amp;theme=transparent&amp;hide_border=true&amp;locale=en&amp;cache_seconds=21600&amp;custom_title=Hyeonjun%27s%20GitHub%20Stats" alt="Hyeonjun's GitHub stats" />
 </a>
 <a href="https://github.com/guswnsj0112">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=guswnsj0112&layout=compact&theme=transparent&hide_border=true&locale=en&cache_seconds=21600&custom_title=Most%20Used%20Languages" alt="Top Languages" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=guswnsj0112&amp;layout=compact&amp;theme=transparent&amp;hide_border=true&amp;locale=en&amp;cache_seconds=21600&amp;custom_title=Most%20Used%20Languages" alt="Top Languages" />
 </a>
 
 ---
