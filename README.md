@@ -34,7 +34,7 @@
 | 프로젝트 | 플랫폼 | 역할 | 기간 | 비고 |
 | --- | :---: | :---: | :---: | --- |
 | **[Nearby](https://github.com/TEAM-Nearby/nearby-server)** | iOS | Server | 2026.06 ~ 2026.07 | SOPT 38기 AppJam |
-| **[B-side](https://www.sopt.org/project/287)** | Web | Server | 2026.05 | SOPT 38기 솝커톤 Web 부문 우승 |
+| **[B-side](https://www.sopt.org/project/287)** | Web | Server | 2026.05 | SOPT  38기 솝커톤 <WEB부문 - 대상> 🏆️ |
 | **[이:음](https://ieum.vercel.app/)** | Web | FE | 2023 | DEPTH · 랜덤 익명 편지 서비스 |
 
 ---
