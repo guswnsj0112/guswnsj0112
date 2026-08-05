@@ -16,14 +16,23 @@ let text = `# Hi there 👋
 </p>
 
 - I'm **Jang Hyeonjun (장현준)**, a student developer learning how ideas turn into real products.  
-    - Currently studying **Java**, **Spring**, and software design fundamentals.
+    - Currently studying **Java**, **Spring Boot**, and software design fundamentals.
 
 ---
 
 ## 🚀 Activities & Experience
 
+- **2026 차세대 반도체 컨소시엄 AI 활용 테크니컬 라이팅 실무 교육**
+<code>2026.08</code>
+
+- **SOPT 38기 AppJam Nearby 프로젝트**
+<code>2026.06 ~ 2026.07 · Server</code>
+
+- **SOPT 38기 솝커톤 Web 부문 B-side 우승**
+<code>2026.05 · Server</code>
+
 - **SOPT 38기 Server YB**
-<code>2026.03 ~</code>
+<code>2026.03 ~ 2026.07</code>
 
 - **명지대학교 멋쟁이사자처럼 백엔드 운영진 총무**
 <code>2026.02 ~</code>
@@ -49,12 +58,16 @@ let text = `# Hi there 👋
 <p>
   <img src="https://img.shields.io/badge/python-3670A0?style=flat-square&logo=python&logoColor=ffdd54"/>
   <img src="https://img.shields.io/badge/java-%23ED8B00.svg?style=flat-square&logo=openjdk&logoColor=white"/>
+  <img src="https://img.shields.io/badge/javascript-%23F7DF1E.svg?style=flat-square&logo=javascript&logoColor=black"/>
+  <img src="https://img.shields.io/badge/html5-%23E34F26.svg?style=flat-square&logo=html5&logoColor=white"/>
+  <img src="https://img.shields.io/badge/css3-%231572B6.svg?style=flat-square&logo=css3&logoColor=white"/>
 </p>
 
 ### 🌱 Frameworks / Libraries
 
 <p>
-  <img src="https://img.shields.io/badge/spring-%236DB33F.svg?style=flat-square&logo=spring&logoColor=white"/>
+  <img src="https://img.shields.io/badge/react-%2361DAFB.svg?style=flat-square&logo=react&logoColor=black"/>
+  <img src="https://img.shields.io/badge/spring%20boot-%236DB33F.svg?style=flat-square&logo=springboot&logoColor=white"/>
 </p>
 
 ### 🪪 Certification
