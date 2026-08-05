@@ -34,7 +34,7 @@
 - **SOPT 38기 AppJam Nearby 프로젝트**
 <code>2026.06 ~ 2026.07 · Server</code>
 
-- **SOPT 38기 솝커톤 Web 부문 B-side 우승**
+- **SOPT 38기 솝커톤 Web 부문 [B-side](https://www.sopt.org/project/287) 우승**
 <code>2026.05 · Server</code>
 
 - **[이:음](https://ieum.vercel.app/) — 랜덤 익명 편지 서비스**
