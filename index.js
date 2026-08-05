@@ -25,12 +25,6 @@ let text = `# Hi there 👋
 - **2026 차세대 반도체 컨소시엄 AI 활용 테크니컬 라이팅 실무 교육**
 <code>2026.08</code>
 
-- **SOPT 38기 AppJam Nearby 프로젝트**
-<code>2026.06 ~ 2026.07 · Server</code>
-
-- **SOPT 38기 솝커톤 Web 부문 B-side 우승**
-<code>2026.05 · Server</code>
-
 - **SOPT 38기 Server YB**
 <code>2026.03 ~ 2026.07</code>
 
@@ -39,6 +33,19 @@ let text = `# Hi there 👋
 
 - **명지대학교 교내 IT 프로젝트 동아리 DEPTH**
 <code>2023.03 ~ 2024.01 · FE</code>
+
+---
+
+## 🧩 Projects
+
+- **SOPT 38기 AppJam Nearby 프로젝트**
+<code>2026.06 ~ 2026.07 · Server</code>
+
+- **SOPT 38기 솝커톤 Web 부문 B-side 우승**
+<code>2026.05 · Server</code>
+
+- **[이:음](https://ieum.vercel.app/) — 랜덤 익명 편지 서비스**
+<code>2023 · FE · DEPTH</code>
 
 ---
 
