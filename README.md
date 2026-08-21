@@ -1,103 +1,79 @@
-# Hi there 👋  
+# 장현준 | Backend Developer
 
-![header](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=280&section=header&text=Jang%20Hyeonjun&fontSize=75&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Backend%20Developer&descAlignY=58&descSize=22)
+Java와 Spring Boot를 중심으로 서비스의 서버를 개발하는 백엔드 개발자입니다.<br>
+SOPT 프로젝트에서 서버 개발을 맡았고, 문제 해결 과정과 설계 의도를 [기술 블로그](https://joon0112.tistory.com)에 기록합니다.
 
-<p align="center">
-    <a href="https://myhits.vercel.app">
-        <img src="https://myhits.vercel.app/api/hit/https%3A%2F%2Fgithub.com%2Fguswnsj0112%2Fguswnsj0112?color=blue&label=hits&size=small" alt="hits" />
-    </a>
-</p>
-
-- I'm **Jang Hyeonjun (장현준)**, a student developer learning how ideas turn into real products.  
-    - Currently studying **Java**, **Spring Boot**, and software design fundamentals.
+- 🏆 **B-side** — SOPT 38기 솝커톤 Web 부문 대상 · Server
+- 🚀 **Nearby** — SOPT 38기 AppJam · Server
+- 🤝 **SOPT 38기 Server YB · 39기 Server OB**
 
 ---
 
-## 🚀 Activities & Experience
+## 🚀 Featured Projects
 
-- **SOPT 39기 Server OB**
-<code>2026.09 ~</code>
-
-- **2026 차세대 반도체 컨소시엄 AI 활용 테크니컬 라이팅 실무 교육 수료**
-<code>2026.08</code>
-
-- **SOPT 38기 Server YB**
-<code>2026.03 ~ 2026.07</code>
-
-- **명지대학교 멋쟁이사자처럼 백엔드 운영진 총무**
-<code>2026.02 ~</code>
-
-- **명지대학교 교내 IT 프로젝트 동아리 DEPTH**
-<code>2023.03 ~ 2024.01 · FE</code>
+| 프로젝트 | 역할 | 서비스 / 결과 | 기간 |
+| --- | :---: | --- | :---: |
+| **[Nearby](https://github.com/TEAM-Nearby/nearby-server)** | Server | 혼자 여행자를 위한 실시간 식사 동행 서비스 · [병합 PR 43건](https://github.com/TEAM-Nearby/nearby-server/pulls?q=is%3Apr+author%3Aguswnsj0112+is%3Amerged) | `2026.06 ~` |
+| **[B-side](https://www.sopt.org/project/287)** | Server | 사소한 성취를 나누는 익명 커뮤니티 · **Web 부문 대상** 🏆 | `2026.05` |
+| **[이:음](https://ieum.vercel.app/)** | Frontend | 감정을 나누는 랜덤 익명 편지 서비스 · DEPTH | `2023` |
 
 ---
 
-## 🧩 Projects
+## 🛠 Tech Stack
 
-| 프로젝트 | 플랫폼 | 역할 | 기간 | 비고 |
-| --- | :---: | :---: | :---: | --- |
-| **[Nearby](https://github.com/TEAM-Nearby/nearby-server)** | iOS | Server | 2026.06 ~ | SOPT 38기 AppJam |
-| **[B-side](https://www.sopt.org/project/287)** | Web | Server | 2026.05 | SOPT  38기 솝커톤 <WEB부문 - 대상> 🏆️ |
-| **[이:음](https://ieum.vercel.app/)** | Web | FE | 2023 | DEPTH · 랜덤 익명 편지 서비스 |
+### Backend
+
+<p>
+  <img src="https://img.shields.io/badge/Java-%23ED8B00.svg?style=flat-square&logo=openjdk&logoColor=white" alt="Java"/>
+  <img src="https://img.shields.io/badge/Spring%20Boot-%236DB33F.svg?style=flat-square&logo=springboot&logoColor=white" alt="Spring Boot"/>
+  <img src="https://img.shields.io/badge/Spring%20Security-6DB33F.svg?style=flat-square&logo=springsecurity&logoColor=white" alt="Spring Security"/>
+</p>
+
+### Database & Infrastructure
+
+<p>
+  <img src="https://img.shields.io/badge/MySQL-4479A1.svg?style=flat-square&logo=mysql&logoColor=white" alt="MySQL"/>
+  <img src="https://img.shields.io/badge/PostgreSQL-4169E1.svg?style=flat-square&logo=postgresql&logoColor=white" alt="PostgreSQL"/>
+  <img src="https://img.shields.io/badge/Docker-2496ED.svg?style=flat-square&logo=docker&logoColor=white" alt="Docker"/>
+</p>
+
+### Additional Experience
+
+<p>
+  <img src="https://img.shields.io/badge/Python-3670A0?style=flat-square&logo=python&logoColor=ffdd54" alt="Python"/>
+  <img src="https://img.shields.io/badge/JavaScript-%23F7DF1E.svg?style=flat-square&logo=javascript&logoColor=black" alt="JavaScript"/>
+  <img src="https://img.shields.io/badge/React-%2361DAFB.svg?style=flat-square&logo=react&logoColor=black" alt="React"/>
+  <img src="https://img.shields.io/badge/HTML5-%23E34F26.svg?style=flat-square&logo=html5&logoColor=white" alt="HTML5"/>
+  <img src="https://img.shields.io/badge/CSS3-%231572B6.svg?style=flat-square&logo=css3&logoColor=white" alt="CSS3"/>
+</p>
 
 ---
 
-## 💻 Tech Stack & Workflow ✍🏼
+## 🧭 Experience & Activities
 
-### 🛠 Development Tools
+| 기간 | 활동 |
+| :---: | --- |
+| `2026.09 ~` | **SOPT 39기 Server OB** |
+| `2026.08` | **2026 차세대 반도체 컨소시엄 AI 활용 테크니컬 라이팅 실무 교육 수료** |
+| `2026.03 ~ 2026.07` | **SOPT 38기 Server YB** |
+| `2026.02 ~` | **명지대학교 멋쟁이사자처럼 백엔드 운영진 · 총무** |
+| `2023.03 ~ 2024.01` | **명지대학교 교내 IT 프로젝트 동아리 DEPTH** · Frontend |
 
-<p>
-  <img src="https://img.shields.io/badge/VS%20Code-007ACC.svg?style=flat-square&logo=visualstudiocode&logoColor=white"/>
-  <img src="https://img.shields.io/badge/IntelliJ%20IDEA-000000.svg?style=flat-square&logo=intellijidea&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Docker-2496ED.svg?style=flat-square&logo=docker&logoColor=white"/>
-  <img src="https://img.shields.io/badge/github-black.svg?style=flat-square&logo=github&logoColor=white"/> 
-  <img src="https://img.shields.io/badge/notion-black.svg?style=flat-square&logo=notion&logoColor=white"/>
-</p>
+## 🪪 Certification
 
-### 🧑‍💻 Languages
-
-<p>
-  <img src="https://img.shields.io/badge/python-3670A0?style=flat-square&logo=python&logoColor=ffdd54"/>
-  <img src="https://img.shields.io/badge/java-%23ED8B00.svg?style=flat-square&logo=openjdk&logoColor=white"/>
-  <img src="https://img.shields.io/badge/javascript-%23F7DF1E.svg?style=flat-square&logo=javascript&logoColor=black"/>
-  <img src="https://img.shields.io/badge/html5-%23E34F26.svg?style=flat-square&logo=html5&logoColor=white"/>
-  <img src="https://img.shields.io/badge/css3-%231572B6.svg?style=flat-square&logo=css3&logoColor=white"/>
-</p>
-
-### 🌱 Frameworks / Libraries
-
-<p>
-  <img src="https://img.shields.io/badge/react-%2361DAFB.svg?style=flat-square&logo=react&logoColor=black"/>
-  <img src="https://img.shields.io/badge/spring%20boot-%236DB33F.svg?style=flat-square&logo=springboot&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Spring%20Security-6DB33F.svg?style=flat-square&logo=springsecurity&logoColor=white"/>
-</p>
-
-### 🗄️ Databases
-
-<p>
-  <img src="https://img.shields.io/badge/MySQL-4479A1.svg?style=flat-square&logo=mysql&logoColor=white"/>
-  <img src="https://img.shields.io/badge/PostgreSQL-4169E1.svg?style=flat-square&logo=postgresql&logoColor=white"/>
-</p>
-
-### 🪪 Certification
-
-- SQLD (한국데이터산업진흥원 / 2024.11.17)
-
-### 🤝 Collaboration & Management
-
-- GitHub Flow 기반 브랜치 전략
-- Notion을 통한 일정 및 아이디어 관리
-
-### 🧭 Working Style
-
-- 에러를 해결하며 원리를 이해하는 과정을 즐깁니다.
-- 기능 단위로 커밋하며 코드 구조를 점진적으로 개선합니다.
-- 작은 프로젝트라도 실제 서비스처럼 설계하고 운영하려 합니다.
+- **SQLD** · 한국데이터산업진흥원 · `2024.11.17`
 
 ---
 
+## ✍️ Recent Writing
 
-## 📊 GitHub Stats
+[기술 블로그 전체 글 보기 →](https://joon0112.tistory.com)
+
+<ul><li><a href='https://joon0112.tistory.com/87' target='_blank'>AI가 코드를 너무 많이 쓴다면? Ponytail</a></li><li><a href='https://joon0112.tistory.com/86' target='_blank'>Spring Boot 요청 처리 흐름: DispatcherServlet부터 JSON 응답까지</a></li><li><a href='https://joon0112.tistory.com/85' target='_blank'>모듈식 모놀리스와 헥사고날 아키텍처로 구성된 Nearby 서버 구조 분석하기</a></li></ul>
+
+---
+
+## 📊 GitHub Activity
 
 <a href="https://github.com/guswnsj0112">
   <img height="180em" src="https://github-stats-extended.vercel.app/api?username=guswnsj0112&amp;show_icons=true&amp;theme=transparent&amp;hide_border=true&amp;locale=en&amp;cache_seconds=21600&amp;custom_title=Hyeonjun%27s%20GitHub%20Stats" alt="Hyeonjun's GitHub stats" />
@@ -105,9 +81,3 @@
 <a href="https://github.com/guswnsj0112">
   <img height="180em" src="https://github-stats-extended.vercel.app/api/top-langs/?username=guswnsj0112&amp;layout=compact&amp;theme=transparent&amp;hide_border=true&amp;locale=en&amp;cache_seconds=21600&amp;custom_title=Most%20Used%20Languages" alt="Top Languages" />
 </a>
-
----
-
-## 📕 Latest Blog Posts
-
-<ul><li><a href='https://joon0112.tistory.com/87' target='_blank'>AI가 코드를 너무 많이 쓴다면? Ponytail</a></li><li><a href='https://joon0112.tistory.com/86' target='_blank'>Spring Boot 요청 처리 흐름: DispatcherServlet부터 JSON 응답까지</a></li><li><a href='https://joon0112.tistory.com/85' target='_blank'>모듈식 모놀리스와 헥사고날 아키텍처로 구성된 Nearby 서버 구조 분석하기</a></li><li><a href='https://joon0112.tistory.com/84' target='_blank'>Appjam 전 간단한 프로젝트를 연습하려고 했었다...</a></li><li><a href='https://joon0112.tistory.com/83' target='_blank'>DDD(Domain-Driven Design)란? 핵심 개념과 계층형 아키텍처</a></li><li><a href='https://joon0112.tistory.com/82' target='_blank'>객체 간의 결합도(Coupling)와 응집도(Cohesion)의 관계</a></li><li><a href='https://joon0112.tistory.com/81' target='_blank'>Nginx는 왜 등장했을까? Apache 구조의 한계와 이벤트 기반 웹 서버 이해하기</a></li><li><a href='https://joon0112.tistory.com/80' target='_blank'>[Spring, Docker] 모듈식 모놀리스에서 Docker 배포하기</a></li><li><a href='https://joon0112.tistory.com/79' target='_blank'>[Docker] Docker 입문: 이미지, 컨테이너, Registry, Docker Engine 정리</a></li><li><a href='https://joon0112.tistory.com/78' target='_blank'>SpringDoc Swagger에서 PathVariable Parameters가 비어 있을 때: Gradle -parameters 옵션 문제 해결기</a></li></ul>
