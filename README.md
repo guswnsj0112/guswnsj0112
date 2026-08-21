@@ -15,7 +15,10 @@
 
 ## 🚀 Activities & Experience
 
-- **2026 차세대 반도체 컨소시엄 AI 활용 테크니컬 라이팅 실무 교육**
+- **SOPT 39기 Server OB**
+<code>2026.09 ~</code>
+
+- **2026 차세대 반도체 컨소시엄 AI 활용 테크니컬 라이팅 실무 교육 수료**
 <code>2026.08</code>
 
 - **SOPT 38기 Server YB**
@@ -88,10 +91,10 @@
 ## 📊 GitHub Stats
 
 <a href="https://github.com/guswnsj0112">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=guswnsj0112&amp;show_icons=true&amp;theme=transparent&amp;hide_border=true&amp;locale=en&amp;cache_seconds=21600&amp;custom_title=Hyeonjun%27s%20GitHub%20Stats" alt="Hyeonjun's GitHub stats" />
+  <img height="180em" src="https://github-stats-extended.vercel.app/api?username=guswnsj0112&amp;show_icons=true&amp;theme=transparent&amp;hide_border=true&amp;locale=en&amp;cache_seconds=21600&amp;custom_title=Hyeonjun%27s%20GitHub%20Stats" alt="Hyeonjun's GitHub stats" />
 </a>
 <a href="https://github.com/guswnsj0112">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=guswnsj0112&amp;layout=compact&amp;theme=transparent&amp;hide_border=true&amp;locale=en&amp;cache_seconds=21600&amp;custom_title=Most%20Used%20Languages" alt="Top Languages" />
+  <img height="180em" src="https://github-stats-extended.vercel.app/api/top-langs/?username=guswnsj0112&amp;layout=compact&amp;theme=transparent&amp;hide_border=true&amp;locale=en&amp;cache_seconds=21600&amp;custom_title=Most%20Used%20Languages" alt="Top Languages" />
 </a>
 
 ---
