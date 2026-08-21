@@ -49,6 +49,7 @@
 <p>
   <img src="https://img.shields.io/badge/VS%20Code-007ACC.svg?style=flat-square&logo=visualstudiocode&logoColor=white"/>
   <img src="https://img.shields.io/badge/IntelliJ%20IDEA-000000.svg?style=flat-square&logo=intellijidea&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Docker-2496ED.svg?style=flat-square&logo=docker&logoColor=white"/>
   <img src="https://img.shields.io/badge/github-black.svg?style=flat-square&logo=github&logoColor=white"/> 
   <img src="https://img.shields.io/badge/notion-black.svg?style=flat-square&logo=notion&logoColor=white"/>
 </p>
@@ -68,6 +69,14 @@
 <p>
   <img src="https://img.shields.io/badge/react-%2361DAFB.svg?style=flat-square&logo=react&logoColor=black"/>
   <img src="https://img.shields.io/badge/spring%20boot-%236DB33F.svg?style=flat-square&logo=springboot&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Spring%20Security-6DB33F.svg?style=flat-square&logo=springsecurity&logoColor=white"/>
+</p>
+
+### 🗄️ Databases
+
+<p>
+  <img src="https://img.shields.io/badge/MySQL-4479A1.svg?style=flat-square&logo=mysql&logoColor=white"/>
+  <img src="https://img.shields.io/badge/PostgreSQL-4169E1.svg?style=flat-square&logo=postgresql&logoColor=white"/>
 </p>
 
 ### 🪪 Certification
