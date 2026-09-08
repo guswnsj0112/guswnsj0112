@@ -69,7 +69,7 @@ SOPT 프로젝트에서 서버 개발을 맡았고, 문제 해결 과정과 설�
 
 [기술 블로그 전체 글 보기 →](https://joon0112.tistory.com)
 
-<ul><li><a href='https://joon0112.tistory.com/90' target='_blank'>외부 API 호출 없이 장소 주소로 도시별 현재 시각 계산하기</a></li><li><a href='https://joon0112.tistory.com/89' target='_blank'>[SOPT] 38기 Server YB 서류 합격 후기</a></li><li><a href='https://joon0112.tistory.com/87' target='_blank'>AI가 코드를 너무 많이 쓴다면? Ponytail</a></li></ul>
+<ul><li><a href='https://joon0112.tistory.com/91' target='_blank'>[SOPT] 38기 YB 서버 파트 면접 합격 후기</a></li><li><a href='https://joon0112.tistory.com/90' target='_blank'>외부 API 호출 없이 장소 주소로 도시별 현재 시각 계산하기</a></li><li><a href='https://joon0112.tistory.com/89' target='_blank'>[SOPT] 38기 Server YB 서류 합격 후기</a></li></ul>
 
 ---
 
