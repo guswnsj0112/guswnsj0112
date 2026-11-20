@@ -81,3 +81,5 @@ SOPT 프로젝트에서 서버 개발을 맡았고, 문제 해결 과정과 설�
 <a href="https://github.com/guswnsj0112">
   <img height="180em" src="https://github-stats-extended.vercel.app/api/top-langs/?username=guswnsj0112&amp;layout=compact&amp;theme=transparent&amp;hide_border=true&amp;locale=en&amp;cache_seconds=21600&amp;custom_title=Most%20Used%20Languages" alt="Top Languages" />
 </a>
+
+[![Solved.ac Profile](https://mazassumnida.wtf/api/v2/generate_badge?boj=guswnsj0112)](https://solved.ac/profile/guswnsj0112)
