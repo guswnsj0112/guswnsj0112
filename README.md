@@ -69,7 +69,7 @@ SOPT 프로젝트에서 서버 개발을 맡았고, 문제 해결 과정과 설�
 
 [기술 블로그 전체 글 보기 →](https://joon0112.tistory.com)
 
-<ul><li><a href='https://joon0112.tistory.com/98' target='_blank'>[LeetCode / Java] 26. Remove Duplicates from Sorted Array - 투 포인터로 중복 제거하기</a></li><li><a href='https://joon0112.tistory.com/97' target='_blank'>[LeetCode / Java] 125. Valid Palindrome - 투 포인터(Two Pointers)를 처음 적용해 본 문제</a></li><li><a href='https://joon0112.tistory.com/96' target='_blank'>[LeetCode / Java] 242. Valid Anagram - HashMap으로 문자 빈도 비교하기</a></li></ul>
+<ul><li><a href='https://joon0112.tistory.com/99' target='_blank'>[자바 ORM 표준 JPA 프로그래밍/3장] 영속성 관리</a></li><li><a href='https://joon0112.tistory.com/98' target='_blank'>[LeetCode / Java] 26. Remove Duplicates from Sorted Array - 투 포인터로 중복 제거하기</a></li><li><a href='https://joon0112.tistory.com/97' target='_blank'>[LeetCode / Java] 125. Valid Palindrome - 투 포인터(Two Pointers)를 처음 적용해 본 문제</a></li></ul>
 
 ---
 
