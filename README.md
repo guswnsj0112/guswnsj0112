@@ -69,7 +69,7 @@ SOPT 프로젝트에서 서버 개발을 맡았고, 문제 해결 과정과 설�
 
 [기술 블로그 전체 글 보기 →](https://joon0112.tistory.com)
 
-<ul><li><a href='https://joon0112.tistory.com/108' target='_blank'>[BOJ / Java] 10815. 숫자 카드 - HashSet을 활용한 빠른 탐색</a></li><li><a href='https://joon0112.tistory.com/107' target='_blank'>[BOJ / Java] 11654. 아스키 코드 - charAt(), 형변환과 BufferedWriter 이해하기</a></li><li><a href='https://joon0112.tistory.com/106' target='_blank'>[BOJ / Java] 1157. 단어 공부 - HashMap과 ArrayList로 최빈 문자 찾기</a></li></ul>
+<ul><li><a href='https://joon0112.tistory.com/109' target='_blank'>[SOPT-SEVER-39기] 서버 비용을 줄이려고 선택한 방법</a></li><li><a href='https://joon0112.tistory.com/108' target='_blank'>[BOJ / Java] 10815. 숫자 카드 - HashSet을 활용한 빠른 탐색</a></li><li><a href='https://joon0112.tistory.com/107' target='_blank'>[BOJ / Java] 11654. 아스키 코드 - charAt(), 형변환과 BufferedWriter 이해하기</a></li></ul>
 
 ---
 
