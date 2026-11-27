@@ -69,7 +69,7 @@ SOPT 프로젝트에서 서버 개발을 맡았고, 문제 해결 과정과 설�
 
 [기술 블로그 전체 글 보기 →](https://joon0112.tistory.com)
 
-<ul><li><a href='https://joon0112.tistory.com/109' target='_blank'>[SOPT-SEVER-39기] 서버 비용을 줄이려고 선택한 방법</a></li><li><a href='https://joon0112.tistory.com/108' target='_blank'>[BOJ / Java] 10815. 숫자 카드 - HashSet을 활용한 빠른 탐색</a></li><li><a href='https://joon0112.tistory.com/107' target='_blank'>[BOJ / Java] 11654. 아스키 코드 - charAt(), 형변환과 BufferedWriter 이해하기</a></li></ul>
+<ul><li><a href='https://joon0112.tistory.com/112' target='_blank'>[BOJ / Java] 2751. 수 정렬하기 2 &ndash; ArrayList와 Comparator를 활용한 정렬</a></li><li><a href='https://joon0112.tistory.com/111' target='_blank'>[자바 ORM 표준 JPA 프로그래밍/12장] 스프링 데이터 JPA</a></li><li><a href='https://joon0112.tistory.com/110' target='_blank'>[면접을 위한 CS 전공지식 노트] DB 기본, ERD, 정규화, 트랜잭션, RDB/NOSQL</a></li></ul>
 
 ---
 
